@@ -4,33 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="185572c7-4c39-471e-885f-2455d026418c" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/djangoProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject/apps/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject/db.sqlite3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject/settings/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject/settings/base.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject/settings/dev.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject/settings/prod.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject/utils/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject/utils/exception.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/emp_manager.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/study/.gitignore" afterDir="false" />
-    </list>
+    <list default="true" id="185572c7-4c39-471e-885f-2455d026418c" name="更改" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
